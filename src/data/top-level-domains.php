@@ -27,6 +27,6 @@ return [
     'life',
     'digital',
     'network',
-    'click'
+    'click',
 ];
 
